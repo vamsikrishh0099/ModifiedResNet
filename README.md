@@ -1,4 +1,4 @@
-# Project Title: Optimizing Deep Learning Models for Resource-Constrained Environments
+# Slimming Down ResNet: Optimizing Deep Learning for Resource-Constrained Environments
 
 ## Summary:
 
